@@ -1,0 +1,24 @@
+html{
+    background-image: linear-gradient(to right, rgb(113, 113, 185), pink);
+}
+.result{
+    color: darkblue;
+}
+#D20{
+    color:orangered;
+}
+#D12{
+    color:red;
+}
+#D10{
+    color: yellow;
+}
+#D8{
+    color: blueviolet;
+}
+#D6{
+    color:purple;
+}
+#D4{
+    color:blue;
+}
